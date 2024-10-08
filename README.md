@@ -1,3 +1,14 @@
+tutorial part one . I'm lazy this is asking a lot from me .
+
+this is this install guide skip the long waits as needed !
+https://youtu.be/lbhYOpnkxZg?si=t5XCGYWxU491UOpd
+
+
+this is just showing what you can do for those who want to see it in use 
+https://youtu.be/r9BNT5uqwqk?si=8leIZIO2yRTsUP-w
+
+this isn't in anyway my work I simply made this a install for your convenience 
+
 ⚠🔥 👊💬: Alright, listen up! I've got a script that lets you bring openwebui to the streets of Android, sans root
 access, ya dig? This ain't no watered-down version, it's the full package, baby! We're talkin' remote model clustering,
 straight from your fingertips. Imagine takin' advantage of them new-fangled llama3.2 models or Phi Mini, Gemma 2b - and keepin'
