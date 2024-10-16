@@ -52,3 +52,7 @@ After it completes u just activate venv again
 source myenv/bin/activate
 
 Then open-webui serve
+
+
+DISCORD: erplegend
+https://www.facebook.com/profile.php?id=61564355361835&mibextid=ZbWKwL
