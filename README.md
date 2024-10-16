@@ -51,6 +51,9 @@ Run my script
 After it completes u just activate venv again
 source myenv/bin/activate
 
+pip install udocker
+pip install open-webui
+
 Then open-webui serve
 
 
